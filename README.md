@@ -1,8 +1,8 @@
 ## Olá, tudo bem? Seja bem vindo!
 
 <div>
-  <a href="#"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=portolucaslp26&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide=issues"/></a>
-  <a href="#"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portolucaslp26&layout=compact&langs_count=4&theme=synthwave&hide=python"/></a>
+  <a href="#"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=portolucaslp26&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=issues"/></a>
+  <a href="#"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portolucaslp26&layout=compact&langs_count=4&theme=midnight-purple&hide=python"/></a>
 </div>
 
 <div>
